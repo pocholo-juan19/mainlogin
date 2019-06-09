@@ -18,6 +18,6 @@ namespace DGL { ///
 	}
 	void Button1Click(object sender, EventArgs e)
 	{
-		MessageBox.Show("Gracias por utilizar mi aplicación: " + this.textBox1.Text );
+		MessageBox.Show("thanks: " + this.textBox1.Text );
 	}  
 }
